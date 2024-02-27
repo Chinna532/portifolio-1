@@ -1,0 +1,134 @@
+.home{
+    margin-left: 300px;
+}
+.home li{
+    margin-right: 30px;
+    font-size: 18px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #888888;
+}
+.top{
+    height: 80px;
+}
+.first{
+    position:sticky;
+    top: 0px;
+    z-index: +5;
+}
+.navbar-brand{
+    font-size: 34px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.icons{
+    margin-right: 20px;
+}
+.icons .raj{
+    font-size: 18px;
+    margin-right: 10px;
+    color: #888888;
+}
+
+.new{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    margin-top: 50px;
+}
+.new h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.new p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+.rajesh-resume{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(218, 213, 222, 0.186);
+    margin-top: 0px;
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.new h1{
+    color: #1cb4a2;
+    margin-bottom: 20px;
+}
+.new p{
+    margin-bottom: 30px;
+}
+.one{
+    width: 45%;
+    margin-left: 100px;
+    line-height: 28px;
+}
+.two{
+    width: 45%;
+    margin-left: 50px;
+    line-height: 28px;
+}
+h4{
+    color: #1D685F;
+}
+.inter h4{
+    color: #1D685F;
+}
+.alice h4{
+    color: #1D685F;
+}
+.degree h4{
+    color: #1D685F;
+}
+span{
+    color: #34B7A7;
+}
+.line{
+    height: 95vh;
+    width: 5px;
+    margin-top: -720px;
+    margin-left: 800px;
+    background-color: #1D685F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+    background-color: aliceblue;
+    height: 100px;
+    text-align: center;
+}
+.copyright{
+    padding-top: 30px;
+}
+.mammu{
+    text-decoration: none;
+    color: white;
+}
+.mammu:hover{
+    color: white;
+}
