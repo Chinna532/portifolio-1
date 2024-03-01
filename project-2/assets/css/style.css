@@ -1,0 +1,190 @@
+.bgimg{
+    height: 80vh;
+    width: 100vw;
+    background-image: url("../images/hero-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.home{
+    margin-left: 250px;
+}
+.home li{
+    margin-right: 20px;
+    font-size: 18px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #000000;
+}
+#oo:hover{
+    color: green;
+}
+#oo:active{
+    color: green;
+}
+.top{
+    height: 80px;
+    background-color: white;
+}
+.first{
+    position:sticky;
+    top: 0px;
+    z-index: +5;
+}
+.navbar-brand{
+    font-size: 34px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 100px;
+}
+.icons{
+    margin-right: 20px;
+}
+.butt{
+    width: 120px;
+    height: 35px;
+    border-radius: 20px;
+    margin-top: 3px;
+}
+
+.bgimg h1{
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  width: 548px;
+}
+.bgimg h2 {
+    color: #eee;
+    margin: 10px 0 0 0;
+    font-size: 24px;
+}
+.bgimg .btn-get-started {
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin-top: 30px;
+    border: 2px solid #fff;
+    color: #fff;
+}
+.part a:hover{
+    color: white;
+    background-color: green;
+    border: none;
+}
+.part{
+    position: relative;
+    top: 200px;
+    margin-left: 120px;
+}
+.ment{
+    margin-top: 80px;
+    line-height: 38px;
+}
+.ment h3{
+    font-size: 28px;
+}
+.ment img{
+    height:477px ;
+    width:633px ;
+}
+.chinna{
+    background-color: #f6f7f6;;
+    margin-top: 80px;
+    height: 150px;
+    padding-top:30px;
+}
+.chinna span{
+    font-size: 48px;
+    color: #5fcf80;
+}
+.why{
+    margin-top: 80px;
+}
+.why .content {
+    padding: 30px;
+    background: #5fcf80;
+    border-radius: 4px;
+    color: #fff;
+  }
+.why .icon-boxes .icon-box i {
+    font-size: 32px;
+    padding: 18px;
+    color: #5fcf80;
+    margin-bottom: 30px;
+    background: #ecf9f0;
+    border-radius: 50px;
+  }
+  .why .content .more-btn:hover {
+    color: #5fcf80;
+    background: #fff;
+  }
+  .why .content .more-btn {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 6px 30px 8px 30px;
+    color: #fff;
+    border-radius: 50px;
+    transition: all ease-in-out 0.4s;
+  }  
+  .why .icon-boxes .icon-box {
+    text-align: center;
+    background: #fff;
+    padding: 40px 30px;
+    width: 100%;
+    border: 1px solid #eef0ef;
+  }
+  .why .content h3 {
+    font-weight: 700;
+    font-size: 34px;
+    margin-bottom: 30px;
+  }
+  .why .content p {
+    margin-bottom: 30px;
+  }
+.text-center a{
+    text-decoration: none;
+}
+.bb{
+    margin-top: 80px;
+}
+.tt{
+    display: flex;
+    flex-wrap: wrap;
+    width: 290px;
+    height: 74px;
+    border: 1px solid gray;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #eef0ef;
+}
+.tt i{
+    font-size: 24px;
+}
+.tt h3 a{
+    text-decoration: none;
+    font-size: 23px;
+    margin-left: 10px;
+    color: #000000  ;
+}
+.tt:hover h3 a{
+    color: #5fcf80;
+}
+.tt:hover {
+    border: 1px solid #5fcf80;
+}
+.aa{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
