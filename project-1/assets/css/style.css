@@ -1,0 +1,67 @@
+.home{
+    margin-left: 250px;
+}
+.home li{
+    margin-right: 30px;
+    font-size: 18px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #888888;
+}
+.top{
+    height: 80px;
+}
+.first{
+    position:sticky;
+    top: 0px;
+    z-index: +5;
+}
+.navbar-brand{
+    font-size: 34px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.icons{
+    margin-right: 20px;
+}
+.icons .raj{
+    font-size: 18px;
+    margin-right: 10px;
+    color: #888888;
+}
+
+
+.second{
+    height: 90vh;
+    width: 100%;
+    background-image: url("../images/hero-bg\ \(1\).jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    padding-top: 250px;
+}
+.second h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+}
+.butt{
+    width: 130px;
+    border-radius: 50px;
+    background-color: #34B4A7;
+    border: none;
+}
+#footer{
+    background-color: aliceblue;
+    height: 100px;
+    text-align: center;
+}
+.copyright{
+    padding-top: 30px;
+}
+.mammu{
+    text-decoration: none;
+    color: white;
+}
+.mammu:hover{
+    color: white;
+}

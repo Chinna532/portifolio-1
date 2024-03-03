@@ -1,0 +1,131 @@
+.home{
+    margin-left: 300px;
+}
+.home li{
+    margin-right: 30px;
+    font-size: 18px;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #888888;
+}
+.top{
+    height: 80px;
+}
+.first{
+    position:sticky;
+    top: 0px;
+    z-index: +5;
+}
+.navbar-brand{
+    font-size: 34px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.icons{
+    margin-right: 20px;
+}
+.icons .raj{
+    font-size: 18px;
+    margin-right: 10px;
+    color: #888888;
+}
+
+.new{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    margin-top: 50px;
+}
+.new h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #1cb4a2;
+    margin-bottom: 20px;
+}
+.new p{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+
+#contact{
+    text-align: center;
+    margin-right: 350px;
+    margin-top: 50px;
+}
+#contact h1{
+    font-size: 40px;
+    color: #FF540F;
+}
+#contact input{
+    width: 320px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+}
+#contact i{
+    color: #19a0be;
+    margin-right: 10px;
+}
+
+#contact button{
+    height: 40px;
+    width: 320px;
+    border-radius: 40px;
+    margin-top: 30px;
+    border: none;
+    font-size: 16px;
+}
+#contact button:hover{
+    background-color:#FF540F;
+    color: #Fbfbfb;
+}
+#message{
+    margin-left: 750px;
+    margin-top: -390px;
+    margin-bottom: 80px;
+}
+
+#footer{
+    background-color: aliceblue;
+    height: 100px;
+    text-align: center;
+}
+.copyright{
+    padding-top: 30px;
+}
+.mammu{
+    text-decoration: none;
+    color: white;
+}
+.mammu:hover{
+    color: white;
+}
+.all-images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.all-1{
+    width: 380px;
+    height: 450px;
+}
+.all-5{
+    width: 380px;
+    height: 400px;
+}
+.all-9{
+    width: 380px;
+    height: 400px;
+}
+img{
+    text-align: center;
+    width: 350px;
+    height: 320px;
+    margin: 40px;
+}
+img:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 5px 2px 5px rgba(0, 0, 0, 0.3) ;
+}
